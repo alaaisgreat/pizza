@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Pizza page",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "../Html/html_course-main/10_lesson_starter/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Pizza page"
+	}
+}
